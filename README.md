@@ -7,7 +7,7 @@ This solution uses three semaphores, one for customers (counts waiting customers
 use these commands in terminal for compilation.
 
 # How to compile this code:
-$ gcc sb.c o sb -lpthread
+$ gcc sb.c -o sb -lpthread
 
 # how to run this code:
 $ ./sb
